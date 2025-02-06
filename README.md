@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a shell script that provides essential server performance statistics, including CPU usage, memory usage, disk usage, network statistics, and top resource-consuming processes. It helps system administrators monitor server health and performance.
+![screenshot](Screenshots/image.png)
 
 ## Features
 - Displays current date and time of the stats.
